@@ -1,0 +1,11 @@
+{
+  "name": "@jiong/hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {},
+  "author": "jiong",
+  "license": "ISC"
+}
