@@ -1,14 +1,14 @@
 {
   "name": "@jiong/components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.ts", 
+  "main": "index.ts",
   "type": "module",
   "scripts": {},
   "keywords": [],
   "author": "jiong",
   "license": "ISC",
   "dependencies": {
-    "@jiong/hooks": "^1.0.0"
+    "@jiong/hooks": "^1.0.1"
   }
 }
